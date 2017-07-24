@@ -1,0 +1,10 @@
+AnswerQuestionIntent Ask Trend Micro IT Helpdesk {Question}
+AnswerQuestionIntent Trend Micro IT Helpdesk {Question}
+AnswerQuestionIntent Trend Micro Helpdesk {Question}
+AnswerQuestionIntent Trend Helpdesk {Question}
+AnswerQuestionIntent Helpdesk {Question}
+AnswerQuestionIntent {Question}
+AMAZON.HelpIntent what can you do
+AMAZON.HelpIntent what can i ask you
+AMAZON.HelpIntent what questions can you answer
+AMAZON.HelpIntent what can you tell me

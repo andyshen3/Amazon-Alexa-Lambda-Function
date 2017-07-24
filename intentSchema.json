@@ -1,6 +1,6 @@
 {
 	"intents" : [ {
-		"intent": "ITHelpDesk",
+		"intent": "TrendMicroITHelpDesk",
 		"slots": [
 			{
 				"name": "Question",

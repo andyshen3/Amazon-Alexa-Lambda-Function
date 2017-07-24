@@ -1,0 +1,19 @@
+{
+	"intents" : [ {
+		"intent": "TrendMicroITHelpDesk",
+		"slots": [
+			{
+				"name": "Question",
+				"type": "LIST_OF_QUESTIONS"
+			}
+		]
+	}, {
+		"intent": "AMAZON.HelpIntent"
+	}, {
+		"intent": "AMAZON.StopIntent"
+	}, {
+		"intent": "AMAZON.CancelIntent"
+	}
+
+	]
+}
